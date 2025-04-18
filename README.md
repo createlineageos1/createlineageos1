@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nuri
+- 👀 I’m interested in programming, football
+- 🌱 I’m currently learning ASM, C
+- 📫 How to reach me Discord, halqwz
+- 😄 Pronouns: Alexander
