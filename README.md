@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nuri
-- 👀 I’m interested in programming, football
+- 👀 I’m interested in programming, football, AI
 - 🌱 I’m currently learning ASM, C
-- 📫 How to reach me Discord, halqwz
+- 📫 How to reach me Discord, halqwzisback
 - 😄 Pronouns: Alexander
+- ✅ Currently doing: AI Projects, LM Projects, Neural Network
