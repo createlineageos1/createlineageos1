@@ -2,5 +2,5 @@
 - 👀 I’m interested in programming, football, AI
 - 🌱 I’m currently learning ASM, C
 - 📫 How to reach me Discord, halqwzisback
-- 😄 Pronouns: Alexander
+- 😄 Pronouns: Alexander, Local script kiddie (so sad btw)
 - ✅ Currently doing: AI Projects, LM Projects, Neural Network
