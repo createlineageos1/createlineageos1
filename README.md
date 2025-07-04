@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nuri
 - 👀 I’m interested in programming, football, AI
-- 🌱 I’m currently learning ASM, C
+- 🌱 I’m currently learning ASM, C, Windows Batch
 - 📫 How to reach me Discord, halqwzisback
 - 😄 Pronouns: Alexander, Local script kiddie (so sad btw)
 - ✅ Currently doing: AI Projects, LM Projects, Neural Network
